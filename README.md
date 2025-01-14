@@ -1,4 +1,4 @@
-# Shell Color Scripts
+# Shell Color Scripts and other goodies
 
 ![Screenshot of shell-color-scripts](https://gitlab.com/dwt1/dotfiles/raw/master/.screenshots/dotfiles12.png)
 
